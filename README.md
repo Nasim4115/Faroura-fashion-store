@@ -1,1 +1,1 @@
-# Faroura-fashion-store
+# Faroura-Fashion-Store
